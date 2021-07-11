@@ -4,9 +4,10 @@
   "description": "This is a node Server for LetsChat Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node nodeServer/index.js"
   },
-  "author": "Mayank Chaudhary",
+  "author": "Ronit",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.4",
